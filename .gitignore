@@ -1,0 +1,32 @@
+﻿# Keil build artifacts
+DebugConfig/
+Listings/
+Objects/
+*.uvguix.*
+*.uvoptx
+*.scvd
+*.dep
+*.crf
+*.o
+*.d
+*.iex
+*.tra
+RTE/
+
+# Build outputs
+*.hex
+*.bin
+*.elf
+*.map
+*.htm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# HAL conversion (not part of StdPeriph project)
+Codex重构PID/
+HAL_Lib/
